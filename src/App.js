@@ -11,7 +11,7 @@ class App extends Component {
           <p>
             Avocados 
           </p>
-         
+          <p>Great Food and Health</p>
         </header>
       </div>
     );
